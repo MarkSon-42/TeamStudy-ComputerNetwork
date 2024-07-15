@@ -67,9 +67,11 @@
 
 ## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )
 
+> 추후 공지
+
 ## 5. Tools
 
-- MatterMost를 적극 활용할 예정, 
+- 소통의 경우 MatterMost를 적극 활용할 예정, 
 
 > 추후 공지
 
