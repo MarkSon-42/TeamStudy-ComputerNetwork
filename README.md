@@ -10,10 +10,10 @@
 ---  
 
 
-### Contents  
+### 📚 Contents  
 
 
-- 📚 : 컴퓨터 네트워크 과목의  *전설적인 강의* 인 한양대학교 이석복 교수님의 KOCW 온라인 강의
+- [교재 및 강의] : 컴퓨터 네트워크 과목의  *전설적인 강의* 인 한양대학교 이석복 교수님의 KOCW 온라인 강의
 [http://www.kocw.net/home/cview.do?cid=6166c077e545b736](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)
 
 - [도구] : Claude 3.5, Copilot, chatGPT-4o, Gemini, Amazon Q,.... 등 각자가 써보고 싶은 생성형 AI를 적극 활용하여 교재 기반의 질문(퀴즈)을 생성하고 공유,
