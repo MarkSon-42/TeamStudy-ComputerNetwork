@@ -1,4 +1,4 @@
-# 🌇국가권력급 네트워크 스터디 (SSAFY 12th)
+# fire_tornado: 국가권력급 네트워크 스터디 (SSAFY 12th)
 
 ![Designer](https://github.com/user-attachments/assets/81714580-f8ec-4c91-8661-6b1dc5728dc2)
 
