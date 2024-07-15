@@ -9,7 +9,7 @@
 ---  
 
 
-#### Contents
+### Contents
 
 - [강의 및 교재] : 컴퓨터 네트워크 과목의  *전설적인 강의* 인 한양대학교 이석복 교수님의 KOCW 온라인 강의
 [http://www.kocw.net/home/cview.do?cid=6166c077e545b736](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)
@@ -27,7 +27,7 @@
 
 
 
-#### Who need this study?
+### Who need this study?
 
 - 웹 백엔드, 웹 프론트, 데브옵스, 네트워크 엔지니어 등등 거의 모든 IT직군에 지원하는 개발 취준생 및 이직 준비자
 
