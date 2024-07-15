@@ -55,7 +55,7 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MarkSon-42( 👑 )</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>MarkSon-42 👑 </b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/
 anseongjun"><img src="https://avatars.githubusercontent.com/u/28583556?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 anseongjun</b></sub></a><br /></td>
