@@ -3,13 +3,15 @@
 ![Designer](https://github.com/user-attachments/assets/81714580-f8ec-4c91-8661-6b1dc5728dc2)
 
 
-## 1. Introduction
+## 1. Introduction  
+
 
 **주의 : 국가 권력급 스터디 답게 짧은 기간에 방대한 내용을 학습해야합니다. 이점 숙고해서 신중하게 신청해주세요.**
 ---  
 
 
-### Contents
+### Contents  
+
 
 - [강의 및 교재] : 컴퓨터 네트워크 과목의  *전설적인 강의* 인 한양대학교 이석복 교수님의 KOCW 온라인 강의
 [http://www.kocw.net/home/cview.do?cid=6166c077e545b736](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)
@@ -26,8 +28,10 @@
 - [비고] : 대면은 카페에서 다대일 기술면접 형태로 진행하거나, 1:1로 역할 나눠서 질의연습합니다. (다양한 기술면접 형태를 최대한 연습)
 
 
+  
 
-### Who need this study?
+### Who need this study?  
+
 
 - 웹 백엔드, 웹 프론트, 데브옵스, 네트워크 엔지니어 등등 거의 모든 IT직군에 지원하는 개발 취준생 및 이직 준비자
 
@@ -41,10 +45,12 @@
 
 - *기술면접때 면접관을 반하게 하고 싶은 분들*
 
+
 ---  
 
 
-## 2. Our Squad ()
+## 2. Our Squad ()  
+
 
 
 <table>
@@ -54,7 +60,9 @@
 </table>
 
 
-## 3. Curriculum (24.07.24 ~ 24.09.12  :  약 8주간 추석 전까지 진행)  
+  
+
+## 3. Curriculum (24.07.24 ~ 24.09.12  :  약 8주간 추석 전까지 진행)
 
 1. ( 07 / 24 )  :   컴퓨터네트워크 기본1  ~  애플리케이션계층2
 2. ( 07 / 31 )  :  	전송계층1  ~  전송계층4
@@ -65,26 +73,28 @@
 7. ( 09 / 04 )  :  	네트워크보안1  ~  	네트워크보안2 
 8. ( 09 / 11 )  :   1~7주차 전체 간단 요약 및 복습
 
-## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )
+## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )  
+
 
 > 추후 공지
 
-## 5. Tools
+## 5. Tools  
 
 - 소통의 경우 MatterMost를 적극 활용할 예정, 
 
 > 추후 공지
 
-## 6. Rules
+## 6. Rules  
+
 
 - 공가 및 사유결석은 SSAFY 내규를 동일하게 적용합니다.
 - 원칙적으로 불참은 허용하지 않으며, 매우 불가피한 사정이 있을시 운영자에게 먼저 문의합니다.
 
 
-## 7. Reference
+## 7. Reference  
+
 
 - [네트워크 스터디](https://github.com/Bluuubery/CS_Study_Networking)
-
 
 
 ~~~
