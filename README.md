@@ -61,14 +61,13 @@
 aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 anseongjun</b></sub></a><br /></td>
     <td align="center"><br /><sub><b>
-TEAM WANT YOU</b></sub></a><br /></td>
-      <td align="center"><br /><sub><b>
-TEAM WANT YOU</b></sub></a><br /></td>
+WE WANT YOU</b></sub></a><br /></td>
     <td align="center"><br /><sub><b>
-TEAM WANT YOU</b></sub></a><br /></td>
+WE WANT YOU</b></sub></a><br /></td>
     <td align="center"><br /><sub><b>
-TEAM WANT YOU</b></sub></a><br /></td>
-    
+WE WANT YOU</b></sub></a><br /></td>
+    <td align="center"><br /><sub><b>
+WE WANT YOU</b></sub></a><br /></td>
   </tr>
 </table>
 
