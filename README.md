@@ -158,10 +158,20 @@ Beomsususu</b></sub></a><br /></td>
 
 
 
-  
+#### appendix 01 (chatGPT)
+
+> 해당 스터디 강의자료 pdf파일을 요약하고 강의자료를 토대로 기술질문을 생성할 수 있습니다. 스스로 답을 생각해보고 모르는 것들은 물어보면서 학습하는 방식으로 공부하면 됩니다.
+
+![Capture 7](https://github.com/user-attachments/assets/4a2b18df-a02b-4106-8b21-466dabf0afa4)
+
+ ![Capture 8](https://github.com/user-attachments/assets/19c729cd-e165-406f-bacd-b16f310e03c2)
+![Capture 9](https://github.com/user-attachments/assets/894e0bbb-02d2-4cd8-837d-080a0366d1c2)
+![Capture 10](https://github.com/user-attachments/assets/e7eb93cc-479a-43a3-9d53-26a896b09171)
 
 
-#### appendix (claude 3.5 )
+
+#### appendix 02 (claude 3.5 )
+
 ~~~
 
 ---------------------------------------------------------------
