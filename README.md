@@ -64,7 +64,7 @@
  MarkSon-42</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/
 aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-anseongjun</b></sub></a><br /></td>
+aseongjun99</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/mirea70"><img src="https://avatars.githubusercontent.com/u/101246806?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 mirea70</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/hi-there-insahae?tab=repositories"><img src="https://avatars.githubusercontent.com/u/97225263?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
