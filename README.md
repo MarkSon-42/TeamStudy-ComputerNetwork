@@ -1,7 +1,4 @@
-# 🔥 컴퓨터 네트워크 스터디 (SSAFY 12th)
-
-![Designer](https://github.com/user-attachments/assets/81714580-f8ec-4c91-8661-6b1dc5728dc2)
-
+# 🔥 삼성청년SW아카데미 12기 데이터베이스 스터디 그룹
 
 ## 1. Introduction  
 
