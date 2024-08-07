@@ -1,0 +1,34 @@
+여러 패킷을 Pipelinging하여 처리하는 방식
+들어가기 : RTT 는 한 번에 패킷 하나씩 보내기때문에 utility가 매우 비효율적이다. 여러개의 패킷을 보내는 방법에는 protocol 이 있는데 go back N 과 sellective 방법을 소개한다.
+프로토콜은 아니고 어프로치임
+
+# Go back N(GBN)
+
+Go Back N 방식은 receiver 측에서 순서대로 받지 못한 패킷이 있다면 해당 패킷부터 다시 재전송하는 방식이다.
+얼마나 보낼건가? Window size만큼은 피드백 받지않고 보낼 수 있다.
+receiver 측은 정상적으로 받지 못한 패킷이 있으면, 해당 패킷이 올때까지 다른 패킷을 보내도 아직 받지 못한 패킷의 직전 패킷에 신경쓴다. 
+리시버가 멍청하다. 시퀀스를 주구장창 기다린다. 1번 밖에 못받는게 버퍼 공간이 없다. 
+나머지 패킷 다 버리고, 자기가 받으려고 했던 것만 받는다.
+ACK 사이에 갭이 있는걸 못참음 - cumulative ACK
+축적된 에크 ACK 11 : 나 11번 기다리고 있다. 11번까지 완벽하게 잘 받았으니 12번 내놓으라
+
+유실되면 걔를 기준으로 N개만큼 돌아와서 다시 보낸다
+Window안에 들어있는 애들은 재전송이 있을 수도 있기 때문에 sender가 버퍼에 저장해야하는 애들
+sender의 window size는 사용되는 sequence number 보다 무조건 작거나 같아야 한다. 
+
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FSKDCt%2FbtqWx7jblqJ%2FOYueBeDsHSLV4Xo9facDZk%2Fimg.png" width="450px" height="300px" alt="sequence number"></img><br/>
+-> 2번 패킷이 소실되었고, Sender는 ack1이 도착한 순간부터 패킷 2번에 대한 타이머를 계산한다.
+일정 시간이 지나면 타이머가 만료되면서 Sender의 window 속 패킷들이 Back N 하면서 모두 재전송됨
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FnmFdw%2FbtqWsIjJG9K%2FxlDSdDomIFghe30i0tGkz0%2Fimg.png" width="450px" height="300px" alt="sequence number2"></img><br/>
+여러 ack이 중간에 손실되어 정상적인 ack이 하나만 도착해도 이전의 받지 못한 ack을 받은 것으로 처리하는 것을 알 수 있다. 이는 앞서 말한 cumulative ACK이기 때문에 가능하다.
+
+# Selective repeat
+
+ACK7: 7번 잘 받았다 사용해제
+타이머가 터지면(각각의 타이머가 만료될 때까지 ACK가 오지 않으면) 해당 패킷만 재전송한다. 따로 받은 패킷을 보관할 버퍼가 필요하다. 
+올바르지 않은 패킷이 와도 일단 저장해두고, 나중에 부족한 부분을 채우는 구조이기 때문이다. 
+윈도우에 유실된거 돌려주고 에크 유실된 넘버 되돌려준다
+네트워크 부담이 덜 되는 대신 리시버가 일을 해야한다. 2(유실 재전송) 6 7 8 9이런식으로 전송
+사용되는 sequence number는 sender의 window size와 Receiver의 window size 크기의 합보다 무조건 크거나 같아야 한다. 
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FpD9tV%2FbtqWNciD1Dl%2FKWwR3fr34RSKz3FuDwpPo1%2Fimg.png" width="450px" height="300px" alt="selective repeat"></img><br/>
+각의 패킷들이 전송되는 순간에 타이머가 가동되고, 소실된 패킷의 타이머가 만료되면 해당 패킷만 재전송 한다.
