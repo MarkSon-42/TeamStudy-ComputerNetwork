@@ -10,7 +10,7 @@
 ### 📚 Contents  
 
 
-- [교재 및 강의] : 컴퓨터 네트워크 과목의  *전설적인 강의* 인 한양대학교 이석복 교수님의 KOCW 온라인 강의 (강의, pdf 무료))
+- [교재 및 강의] : 컴퓨터 네트워크 _ 한양대학교 이석복 교수님의 KOCW 온라인 강의 (강의, pdf 무료))
 [http://www.kocw.net/home/cview.do?cid=6166c077e545b736](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)
 
 - 🛠️ : Claude 3.5, Copilot, chatGPT-4o, Gemini,,.... 등 각자가 써보고 싶은 생성형 AI를 적극 활용하여 교재 기반의 질문(퀴즈)을 생성하고 공유,
@@ -49,9 +49,6 @@
 - 네트워크 지식이 중요한건 알지만, 혼자 공부하면서 느린 진도에 좌절감을 느껴보신 분
 
 
-
-
-
 ---  
 
 
@@ -78,8 +75,6 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 </table>
 
 
-
-  
 
 ## 3. ⛳ Curriculum 
 
@@ -122,7 +117,7 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 > 
 > ### 커밋 규칙
 > - **커밋 메시지 형식**: `타입: 간결한 설명`
->   - **타입**: `feat` (새로운 기능), `fix` (버그 수정), `docs` (문서 변경), `style` (코드 스타일 변경), `refactor` (코드 리팩토링), `test` (테스트 추가/수정), `chore` (기타 변경)
+>   - **타입**: `feat` (새로운 기능), `fix` (버그 수정), `docs` (문서 변경), `style` (코드 스타일 변경), `chore` (기타 변경)
 >   - **예시**: `feat: Add TCP connection example`
 > - **커밋 메시지 본문**: 변경 사항에 대한 자세한 설명을 포함해야해요.
 >   - **예시**: `This commit adds an example of establishing a TCP connection using Python's socket library.`
@@ -130,11 +125,8 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 > - **브랜치 전략**: 작업자별 브랜치를 생성하고, 작업 완료 후 `main` 브랜치에 병합을 위해 issue를 남겨주세요.
 
 
-> 추후 공지
-
 
 ## 5.💎 Rules  
-
 
 - 공가 및 사유결석은 SSAFY 내규를 동일하게 적용합니다.
 - 원칙적으로 불참은 허용하지 않으며, 도의적으로 정말 불가피한 사정이 있을시 운영자에게 먼저 문의부탁드립니다.
