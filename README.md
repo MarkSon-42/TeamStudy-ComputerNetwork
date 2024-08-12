@@ -81,7 +81,9 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 
   
 
-## 3. ⛳ Curriculum (24.07.24 ~ 24.09.12  :  약 8주간 추석 전까지 진행)
+## 3. ⛳ Curriculum 
+
+### Level 1 : 24.07.24 ~ 24.09.12  : 컴퓨터 네트워크 이론 강의, 프로젝트, 기술면접
 
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
@@ -89,11 +91,25 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 1  | 컴퓨터네트워크 기본1 ~ 애플리케이션계층2 | 컴퓨터 네트워크의 기본 개념과 애플리케이션 계층의 이해 | ✅            |
 | Week 2  | 전송계층1 ~ 전송계층4          | 전송계층의 기능과 프로토콜에 대한 심도 있는 학습       | ✅           |
 | Week 3  | 네트워크계층1 ~ 네트워크계층3  | 네트워크 계층의 구조와 라우팅 프로토콜의 이해          | ✅            |
-| Week 4  | 네트워크계층4 ~ 링크계층1      | 네트워크 계층의 심화 학습과 링크 계층의 기본 개념       | 📅           |
+| Week 4  | 네트워크계층4 ~ 링크계층1      | 네트워크 계층의 심화 학습과 링크 계층의 기본 개념       | ✅           |
 | Week 5  | 링크계층2 ~ 무선이동네트워크1  | 링크 계층의 심화 학습과 무선 이동 네트워크의 이해       | 📅           |
 | Week 6  | 무선이동네트워크2 ~ 멀티미디어네트워크 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
 | Week 7  | 네트워크보안1 ~ 네트워크보안2  | 네트워크 보안의 기본 개념과 심화 학습                  | 📅           |
 | Week 8  | 1~7주차 전체 간단 요약 및 복습 | 전체 내용의 요약 및 복습                              | 📅           |
+
+
+### Level 2 : 24.09.25 ~ 24.11.13  :  Cloud Computing(Amazon Web Service Skillbuilder)
+
+| Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
+|---------|-------------------------------|----------------------------------------------------|--------------|
+| Week 9  | 클라우드 컴퓨팅 및 AWS 기본 사항 소개 | AWS 계정을 생성, 기본 EC2 인스턴스를 시작 | 📅            |
+| Week 10  | AWS 핵심 서비스 – 컴퓨팅, 스토리지 및 네트워킹 |  EC2에 웹 애플리케이션을 배포, S3 버킷을 생성하고 파일을 업로드  | 📅           |
+| Week 11  | AWS IAM 및 보안 | AWS Identity and Access Management(IAM) 및 기본 보안 | 📅            |
+| Week 12  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
+| Week 13  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
+| Week 14  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
+| Week 15  | 고급 주제 및 확장 | 네트워크 보안의 기본 개념과 심화 학습                  | 📅           |
+| Week 16  | 프로젝트 및 검토 | 전체 내용의 요약 및 복습                              | 📅           |
 
 
 ## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )  
