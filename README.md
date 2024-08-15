@@ -93,7 +93,7 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 8  | 네트워크 스터디 중간회고 및 회의 | 8주차까지의 학습회고 및 9주차 이후의 과정에 대한 논의 | 📅           |
 
 
-### Level 2 : 24.09.25 ~ 24.11.13  :  Cloud Computing(Amazon Web Service Skillbuilder)
+### Level 2 : 24.09.25 ~ 24.11.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
@@ -103,8 +103,8 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 12  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
 | Week 13  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
 | Week 14  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
-| Week 15  | 고급 주제 및 확장 | 네트워크 보안의 기본 개념과 심화 학습                  | 📅           |
-| Week 16  | 프로젝트 및 검토 | 전체 내용의 요약 및 복습                              | 📅           |
+| Week 15  | 고급 주제 및 확장 | 클라우드 보안의 기본 개념과 심화 학습         | 📅           |
+| Week 16  | 프로젝트 및 검토 | 전체 내용의 요약 및 복습                 | 📅           |
 
 
 ## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )  
