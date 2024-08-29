@@ -10,35 +10,38 @@
 ### 📚 Contents  
 
 
-- [교재 및 강의] : 컴퓨터 네트워크 _ 한양대학교 이석복 교수님의 KOCW 온라인 강의 (강의, pdf 무료))
-[http://www.kocw.net/home/cview.do?cid=6166c077e545b736](http://www.kocw.net/home/cview.do?cid=6166c077e545b736)
+- [교재 및 강의] 
 
-- 🛠️ : Claude 3.5, Copilot, chatGPT-4o, Gemini,,.... 등 각자가 써보고 싶은 생성형 AI를 적극 활용하여 교재 기반의 질문(퀴즈)을 생성하고 공유,
-각자 대면 스터디 전날까지 풀어보는 방식의 학습도 진행할 예정입니다.
+### 강의 : 컴퓨터 네트워크 _ 널널한 개발자의 유튜브 온라인 강의 [네트워크 기초 이론 재생목록]
+[https://www.youtube.com/watch?v=k1gyh9BlOT8&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy](https://www.youtube.com/watch?v=k1gyh9BlOT8&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy)
 
-> 추후 예시를 업로드
+### 교재 [후니의 쉽게 쓴 시스코 네트워킹]
+[https://www.yes24.com/Product/Goods/113485068](https://www.yes24.com/Product/Goods/113485068)
+
 
 
 ### 🕑 Schedule & Members 
 
--  매주 수요일 저녁 1회 (19:00~20:30) 서울 역삼 캠퍼스 주변 카페에서 대면 스터디, 나머지는 비대면(자율학습)입니다.
+주 2회 스터디를 진행하며 비대면 하루, 대면 하루 이렇게 진행합니다.
 
--  최대 6명의 멤버를 모집합니다. (3명의 전공자 (  컴퓨터공학, 전기전자공학, 보안등.. 컴퓨터 관련 모든 학과가 여기 해당)  ) +  3명의 비전공자 (전공무관))
+-  매주 월요일 저녁 (21:00~22:00) 본인이 원하는 장소에서 캠(ON)으로 자율학습 진행합니다. (모여서 전공서 읽기)
 
--  대면은 카페에서 다대일 기술면접 형태로 진행하거나, 1:1로 역할 나눠서 기술면접 전 과정을 연습합니다.
+-  매주 수요일 저녁 1회 (19:00~20:30) 서울 역삼 캠퍼스인근 스터디룸에서 대면 스터디를 진행합니다.
+
+-  최대 8명의 멤버를 모집합니다. **전공 무관**
 
 
   
 
 ###  Who need this study?  
 
-> 하나 이상 해당되면 바로 지원하시면 됩니다.
+> 하나 2개 이상 해당되면 적극 지원해보세요!
 
 - 전공자와 같은 레벨의 CS지식으로 무장하고 싶은 비전공자
 
-- CS공부를 기초부터 탄탄히 하여 향후 어떤 기술을 배워도 빠르게 학습할 능력을 기르고 싶으신 분
+- CS공부를 기초부터 탄탄히 하여 향후 어떤 기술(웹서비스, 클라우드, .. )을 배워도 빠르게 학습할 능력을 기르고 싶으신 분
  
-- 웹 백엔드, 웹 프론트, 데브옵스, 네트워크 엔지니어 등등 거의 모든 IT직군에 지원하는 개발 취준생
+- 웹 백엔드, 웹 프론트, 데브옵스, 네트워크 엔지니어 등등 IT직군에 지원하는 개발 취준생
 
 - OSI 7Layer를 들어 보기는 했는데 계층별로 쉽게 설명하기 어려운 분
 
@@ -47,7 +50,6 @@
 - 네트워크 용어 정리가 하나도 안되어 매번 헷갈리시는 분들
   
 - 네트워크 지식이 중요한건 알지만, 혼자 공부하면서 느린 진도에 좌절감을 느껴보신 분
-
 
 ---  
 
@@ -63,14 +65,18 @@
     <td align="center"><a href="https://github.com/
 aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 안성준</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/mirea70"><img src="https://avatars.githubusercontent.com/u/101246806?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-박성재</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/172958486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박다희</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 정영진</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박범수</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+ㅇㅇㅇ</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+ㅇㅇㅇ</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+ㅇㅇㅇ</b></sub></a><br /></td>
   </tr>
 </table>
 
@@ -88,41 +94,48 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 3  | 네트워크계층1 ~ 네트워크계층3  | 네트워크 계층의 구조와 라우팅 프로토콜의 이해          | ✅            |
 | Week 4  | 네트워크계층4 ~ 링크계층1      | [과제1] : JAVA 소켓 프로그래밍 https://www.youtube.com/watch?v=dX82Wuc18wk | ✅           |
 | Week 5  | 링크계층2 ~ 무선이동네트워크1  | 링크 계층의 심화 학습과 무선 이동 네트워크의 이해       | ✅         |
-| Week 6  | 무선이동네트워크2 ~ 멀티미디어네트워크 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
-| Week 7  | 네트워크보안1 ~ 네트워크보안2  |  [과제2] : Wireshark으로 TCP 장애원인 분석하기 | 📅           |
-| Week 8  | 네트워크 스터디 중간회고 및 회의 | 8주차까지의 학습회고 및 9주차 이후의 과정에 대한 논의 | 📅           |
+| Week 6  | PART 02 네트워크와 케이블, 그리고 친구들 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
+| Week 7  | PART 03 TCP/IP와의 만남, PART 05 IP 주소로의 여행  |  [과제2] : Wireshark으로 TCP 장애원인 분석하기 | 📅           |
+| Week 8  | PART 06 스위치를 켜라! | 스위치와 브리지, 맥 어드레스는 어디에, 가상의 랜(Virtual LAN)이란? | 📅           |
 
-
-### Level 2 : 24.09.25 ~ 24.11.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
+### Level 2 : 24.09.25 ~ 24.11.07  :  후니의 쉽게 쓴 시스코 네트워킹 4th Edition, 개정증보신판
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 9  | 클라우드 컴퓨팅 및 AWS 기본 사항 소개 | AWS 계정을 생성, 기본 EC2 인스턴스를 시작 | 📅            |
-| Week 10  | AWS 핵심 서비스 – 컴퓨팅, 스토리지 및 네트워킹 |  EC2에 웹 애플리케이션을 배포, S3 버킷을 생성하고 파일을 업로드  | 📅           |
-| Week 11  | AWS IAM 및 보안 | AWS Identity and Access Management(IAM) 및 기본 보안 | 📅            |
-| Week 12  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
-| Week 13  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
-| Week 14  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
+| Week 9  | PART 07 라우터만 알면 네트워크 도사? | 라우터 구성의 시작, 핑(Ping)과 트레이스(Trace) | 📅            |
+| Week 10  |  PART 09 라우터, 그 속으로 전진! |  네트워크 접근 제어 액세스 리스트(Access List)  | 📅           |
+| Week 11  | PART 11 선이 없는 세상, 무선으로의 여행 |  무선 네트워크에서의 기본 보안 | 📅            |
+| Week 12  | PART 12 IPv6로 떠나는 여행  | 왜 갑자기 IPv4에서 IPv6로 뛰었을까요?  | 📅           |
+| Week 13  | 과제 예정 |  네트워킹을 하면서 꼭 알아두어야 할 약어  | 📅           |
+| Week 14  | 네트워크 프로젝트 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
 | Week 15  | 고급 주제 및 확장 | 클라우드 보안의 기본 개념과 심화 학습         | 📅           |
-| Week 16  | 프로젝트 및 검토 | 전체 내용의 요약 및 복습                 | 📅           |
 
+### Level 3 : 24.11.08 ~ 25.01.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
+
+| Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
+|---------|-------------------------------|----------------------------------------------------|--------------|
+| Week 16  | 클라우드 컴퓨팅 및 AWS 기본 사항 소개 | AWS 계정을 생성, 기본 EC2 인스턴스를 시작 | 📅            |
+| Week 17  | AWS 핵심 서비스 – 컴퓨팅, 스토리지 및 네트워킹 |  EC2에 웹 애플리케이션을 배포, S3 버킷을 생성하고 파일을 업로드  | 📅           |
+| Week 18  | AWS IAM 및 보안 | AWS Identity and Access Management(IAM) 및 기본 보안 | 📅            |
+| Week 19  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
+| Week 20  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
+| Week 21  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
 
 ## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )  
 
 > ### 디렉토리 구조 (예시일뿐, 자유롭게 하셔도 됩니다.)
 > - **src/**: 소스 코드 디렉토리. 컴퓨터 네트워크 관련 학습 자료와 예제 코드
 > - **docs/**: 문서 디렉토리. 학습 자료와 관련된 문서 및 참고 자료
-> - **tests/**: 테스트 코드 디렉토리. 네트워크 프로토콜 및 기능 테스트 코드
 
 > 
 > ### 커밋 규칙
-> - **커밋 메시지 형식**: `타입: 간결한 설명`
->   - **타입**: `feat` (새로운 기능), `fix` (버그 수정), `docs` (문서 변경), `style` (코드 스타일 변경), `chore` (기타 변경)
+> - **커밋 메시지 형식**: `feat: TCP client.java 구현`
+>   - **타입**: `feat` (새로운 기능), `fix` (버그 수정), `docs` (문서 변경), `chore` (기타 변경)
 >   - **예시**: `feat: Add TCP connection example`
 > - **커밋 메시지 본문**: 변경 사항에 대한 자세한 설명을 포함해야해요.
->   - **예시**: `This commit adds an example of establishing a TCP connection using Python's socket library.`
+>   - **예시**: `TCP연결을 JAVA프로그래밍으로 socket 실습 메서드 req, rec`
 > - **커밋 빈도**: 작은 단위로 자주 커밋하여 학습 사항을 추적합시다.
-> - **브랜치 전략**: 작업자별 브랜치를 생성하고, 작업 완료 후 `main` 브랜치에 병합을 위해 issue를 남겨주세요.
+> - **브랜치 전략**: 브랜칭하지 않고, main브랜치 내의 각자 디렉토레이서만 작업
 
 
 
