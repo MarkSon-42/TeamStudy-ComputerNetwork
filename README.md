@@ -15,8 +15,10 @@
 ### 강의 : 컴퓨터 네트워크 _ 널널한 개발자의 유튜브 온라인 강의 [네트워크 기초 이론 재생목록]
 [https://www.youtube.com/watch?v=k1gyh9BlOT8&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy](https://www.youtube.com/watch?v=k1gyh9BlOT8&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy)
 
-### 교재 [후니의 쉽게 쓴 시스코 네트워킹]
-[https://www.yes24.com/Product/Goods/113485068](https://www.yes24.com/Product/Goods/113485068)
+### 교재 [그림으로 배우는 TCP/IP 구조] (2022 세종우수학술도서)
+[https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281306020](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281306020)
+
+
 
 
 
@@ -72,9 +74,9 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
     <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박범수</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-ㅇㅇㅇ</b></sub></a><br /></td>
+고민서</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-ㅇㅇㅇ</b></sub></a><br /></td>
+원석규</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 ㅇㅇㅇ</b></sub></a><br /></td>
   </tr>
