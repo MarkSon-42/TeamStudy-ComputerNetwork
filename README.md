@@ -73,12 +73,12 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 정영진</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박범수</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/gomseo"><img src="https://avatars.githubusercontent.com/u/153079109?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 고민서</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/angenehms"><img src="https://avatars.githubusercontent.com/u/111214565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 원석규</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-ㅇㅇㅇ</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/ehanadul"><img src="https://avatars.githubusercontent.com/u/156569727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+이하나</b></sub></a><br /></td>
   </tr>
 </table>
 
