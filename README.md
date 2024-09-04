@@ -96,21 +96,23 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 3  | 네트워크계층1 ~ 네트워크계층3  | 네트워크 계층의 구조와 라우팅 프로토콜의 이해          | ✅            |
 | Week 4  | 네트워크계층4 ~ 링크계층1      | [과제1] : JAVA 소켓 프로그래밍 https://www.youtube.com/watch?v=dX82Wuc18wk | ✅           |
 | Week 5  | 링크계층2 ~ 무선이동네트워크1  | 링크 계층의 심화 학습과 무선 이동 네트워크의 이해       | ✅         |
-| Week 6  | PART 02 네트워크와 케이블, 그리고 친구들 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
-| Week 7  | PART 03 TCP/IP와의 만남, PART 05 IP 주소로의 여행  |  [과제2] : Wireshark으로 TCP 장애원인 분석하기 | 📅           |
-| Week 8  | PART 06 스위치를 켜라! | 스위치와 브리지, 맥 어드레스는 어디에, 가상의 랜(Virtual LAN)이란? | 📅           |
+| Week 6  | 무선네트워크2 ~ 멀티미디어 네트워크 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | ✅           |
+| Week 7  | 네트워크 보안1 ~ 네트워크 보안2 | 📅           |
+| Week 8  |  |  | 📅           |
 
-### Level 2 : 24.09.25 ~ 24.11.07  :  후니의 쉽게 쓴 시스코 네트워킹 4th Edition, 개정증보신판
+### Level 2 : 24.09.25 ~ 24.11.07  :  
+
+[예정] : WireShark를 통한 TCP장애분석하기
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 9  | PART 07 라우터만 알면 네트워크 도사? | 라우터 구성의 시작, 핑(Ping)과 트레이스(Trace) | 📅            |
-| Week 10  |  PART 09 라우터, 그 속으로 전진! |  네트워크 접근 제어 액세스 리스트(Access List)  | 📅           |
-| Week 11  | PART 11 선이 없는 세상, 무선으로의 여행 |  무선 네트워크에서의 기본 보안 | 📅            |
-| Week 12  | PART 12 IPv6로 떠나는 여행  | 왜 갑자기 IPv4에서 IPv6로 뛰었을까요?  | 📅           |
-| Week 13  | 과제 예정 |  네트워킹을 하면서 꼭 알아두어야 할 약어  | 📅           |
-| Week 14  | 네트워크 프로젝트 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
-| Week 15  | 고급 주제 및 확장 | 클라우드 보안의 기본 개념과 심화 학습         | 📅           |
+| Week 9  |  |  | 📅            |
+| Week 10  |   |    | 📅           |
+| Week 11  |  |   | 📅            |
+| Week 12  |   |   | 📅           |
+| Week 13  |  |   | 📅           |
+| Week 14  |  |  | 📅           |
+| Week 15  |  |   | 📅           |
 
 ### Level 3 : 24.11.08 ~ 25.01.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
 
@@ -160,11 +162,7 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 
 (4) 10 최고의 온라인 컴퓨터 네트워킹 강좌(2024) - Guru99. https://www.guru99.com/ko/best-computer-networking-courses.html.  
 
-(5) 초보자를 위한 컴퓨터 네트워크 튜토리얼 - Guru99. https://www.guru99.com/ko/data-communication-computer-network-tutorial.html.  
 
-(6) 멀티캠퍼스 :: 과정상세보기 - Multicampus. https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&corsCd=212107.  
-
-(7) 컴퓨터 네트워크 - SCH. http://cs.sch.ac.kr/lecture/Network/Network-2021/21-Network.htm.
 
 
 
