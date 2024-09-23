@@ -97,8 +97,8 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 4  | 네트워크계층4 ~ 링크계층1      | [과제1] : JAVA 소켓 프로그래밍 https://www.youtube.com/watch?v=dX82Wuc18wk | ✅           |
 | Week 5  | 링크계층2 ~ 무선이동네트워크1  | 링크 계층의 심화 학습과 무선 이동 네트워크의 이해       | ✅         |
 | Week 6  | 무선네트워크2 ~ 멀티미디어 네트워크 | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | ✅           |
-| Week 7  | 네트워크 보안1 ~ 네트워크 보안2 |   네트워크 보안 프로토콜과 암호화 기법 개요   |    📅     | 
-| Week 8  | 미야타 히로시 TCP/IP  | 프로토콜 ~P.35 | 📅           |
+| Week 7  | 네트워크 보안1 ~ 네트워크 보안2 |   네트워크 보안 프로토콜과 암호화 기법 개요   |    ✅     | 
+| Week 8  | 미야타 히로시 TCP/IP  | 프로토콜 ~P.35 | ✅         |
 
 ### Level 2 : 24.09.25 ~ 24.12.07  :  역순으로 올라가는 OSI 7Layer + TCP/IP 구조
 
@@ -106,11 +106,11 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 9  | 물리계층 ~ P.35 |  | 📅            |
-| Week 10  |  물리계층 ~ P.68 |    | 📅           |
-| Week 11  | 무선 LAN ~ P.119 |   | 📅            |
-| Week 12  | IP ~ P.155 |   | 📅           |
-| Week 13  |  IP 라우팅 ~ P.195  |   | 📅           |
+| Week 9  | 물리계층 ~ P.35 |  | ✅         |
+| Week 10  |  물리계층 ~ P.80 |    | ✅       |
+| Week 11  | 무선 LAN ~ P.129 |   | 📅            |
+| Week 12  | IP ~ P.164 |   | 📅           |
+| Week 13  |  IP 라우팅 ~ P.201  |   | 📅           |
 | Week 14  | 네트워크 계층 ~ P.238  |  | 📅           |
 | Week 15  | UDP/TCP ~ P.279 |   | 📅           |
 | Week 16  | HTTP ~ P.314 |  | 📅            |
