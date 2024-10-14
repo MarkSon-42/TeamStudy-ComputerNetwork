@@ -108,15 +108,14 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 10  |  물리계층 ~ P.80 |    | ✅       |
 | Week 11  | 무선 LAN ~ P.129 |   | ✅            |
 | Week 12  | IP ~ P.164 |   |      ✅        |
-| Week 13  |  IP 라우팅 ~ P.201  |   | ✅           |
-| Week 14  | 네트워크 계층 ~ P.238  |  | 📅           |
-| Week 15  | UDP/TCP ~ P.279 |   | 📅           |
-| Week 16  | HTTP ~ P.314 |  | 📅            |
-| Week 17  | SSL & TLS ~ P.356 |    | 📅           |
-| Week 18  | 관리 액세스 프로토콜 ~ P.387 |   | 📅            |
-| Week 19  | FTP & TFTP  | ~P.418 (Completed)   | 📅           |
+| Week 13  |  IP 라우팅 ~ P.216  |   | ✅           |
+| Week 14  | 네트워크 계층 ~ P.250  |  | 📅           |
+| Week 15  | UDP/TCP ~ P.296 |   | 📅           |
+| Week 16  | HTTP ~ P.342 |  | 📅            |
+| Week 17  | SSL & TLS ~  |    | 📅           |
+| Week 18  | 관리 액세스 프로토콜 ~  |   | 📅            |
 
-### Level 3 : 24.12.08 ~ 25.02.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
+### Level 3 : 24.12.01 ~ 25.02.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
