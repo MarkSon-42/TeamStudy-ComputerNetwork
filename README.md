@@ -39,8 +39,6 @@
 
 > 하나 2개 이상 해당되면 적극 지원해보세요!
 
-- 전공자와 같은 레벨의 CS지식으로 무장하고 싶은 비전공자
-
 - CS공부를 기초부터 탄탄히 하여 향후 어떤 기술(웹서비스, 클라우드, .. )을 배워도 빠르게 학습할 능력을 기르고 싶으신 분
  
 - 웹 백엔드, 웹 프론트, 데브옵스, 네트워크 엔지니어 등등 IT직군에 지원하는 개발 취준생
@@ -108,17 +106,16 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 |---------|-------------------------------|----------------------------------------------------|--------------|
 | Week 9  | 물리계층 ~ P.35 |  | ✅         |
 | Week 10  |  물리계층 ~ P.80 |    | ✅       |
-| Week 11  | 무선 LAN ~ P.129 |   | 📅            |
-| Week 12  | IP ~ P.164 |   | 📅           |
-| Week 13  |  IP 라우팅 ~ P.201  |   | 📅           |
-| Week 14  | 네트워크 계층 ~ P.238  |  | 📅           |
-| Week 15  | UDP/TCP ~ P.279 |   | 📅           |
-| Week 16  | HTTP ~ P.314 |  | 📅            |
-| Week 17  | SSL & TLS ~ P.356 |    | 📅           |
-| Week 18  | 관리 액세스 프로토콜 ~ P.387 |   | 📅            |
-| Week 19  | FTP & TFTP  | ~P.418 (Completed)   | 📅           |
+| Week 11  | 무선 LAN ~ P.129 |   | ✅            |
+| Week 12  | IP ~ P.164 |   |      ✅        |
+| Week 13  |  IP 라우팅 ~ P.216  |   | ✅           |
+| Week 14  | 네트워크 계층 ~ P.250  |  | 📅           |
+| Week 15  | UDP/TCP ~ P.296 |   | 📅           |
+| Week 16  | HTTP ~ P.342 |  | 📅            |
+| Week 17  | SSL & TLS ~  |    | 📅           |
+| Week 18  | 관리 액세스 프로토콜 ~  |   | 📅            |
 
-### Level 3 : 24.12.08 ~ 25.02.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
+### Level 3 : 24.12.01 ~ 25.02.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
