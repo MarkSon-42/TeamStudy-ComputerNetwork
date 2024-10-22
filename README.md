@@ -62,9 +62,6 @@
   <tr>
     <td align="center"><a href="https://github.com/MarkSon-42"><img src="https://avatars.githubusercontent.com/u/84828274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>👑
  손민우</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/
-aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-안성준</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/172958486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박다희</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
@@ -81,6 +78,17 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 </table>
 
 
+## 2-1. 👽 Our Squad (Graduated)
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/mirea70"><img src="https://avatars.githubusercontent.com/u/101246806?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+ 박성재</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/
+aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+안성준</b></sub></a><br /></td>
+  </tr>
+</table>
 
 ## 3. ⛳ Curriculum 
 
