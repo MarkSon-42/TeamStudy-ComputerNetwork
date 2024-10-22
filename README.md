@@ -74,6 +74,8 @@
 원석규</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ehanadul"><img src="https://avatars.githubusercontent.com/u/156569727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 이하나</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+정은아</b></sub></a><br /></td>
   </tr>
 </table>
 
