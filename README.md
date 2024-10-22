@@ -109,8 +109,8 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 11  | 무선 LAN ~ P.129 |   | ✅            |
 | Week 12  | IP ~ P.164 |   |      ✅        |
 | Week 13  |  IP 라우팅 ~ P.216  |   | ✅           |
-| Week 14  | 네트워크 계층 ~ P.250  |  | 📅           |
-| Week 15  | UDP/TCP ~ P.296 |   | 📅           |
+| Week 14  | 네트워크 계층 ~ P.250  |  | ✅           |
+| Week 15  | UDP/TCP ~ P.296 |   | ✅           |
 | Week 16  | HTTP ~ P.342 |  | 📅            |
 | Week 17  | SSL & TLS ~  |    | 📅           |
 | Week 18  | 관리 액세스 프로토콜 ~  |   | 📅            |
