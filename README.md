@@ -64,8 +64,6 @@
  손민우</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/172958486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박다희</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-정영진</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 박범수</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/gomseo"><img src="https://avatars.githubusercontent.com/u/153079109?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
@@ -89,6 +87,8 @@
     <td align="center"><a href="https://github.com/
 aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 안성준</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+정영진</b></sub></a><br /></td>
   </tr>
 </table>
 
