@@ -74,7 +74,7 @@
 이하나</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 정은아</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+    <td align="center"><a href="https://github.com/ebeleey"><img src="https://avatars.githubusercontent.com/u/175283788?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 이다이</b></sub></a><br /></td>
   </tr>
 </table>
