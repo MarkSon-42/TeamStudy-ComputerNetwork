@@ -126,20 +126,23 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 16  | HTTP ~ P.342 |  | 📅            |
 | Week 17  | SSL & TLS ~  |    | 📅           |
 | Week 18  | 관리 액세스 프로토콜 ~  |   | 📅            |
+| Week 19  | 관리 액세스 프로토콜 ~  |   | 📅            |
+| Week 20  | 관리 액세스 프로토콜 ~  |   | 📅            |
+| Week 21  | 관리 액세스 프로토콜 ~  |   | 📅            |
 
 ### Level 3 : 24.12.01 ~ 25.02.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 20  | 클라우드 컴퓨팅 및 AWS 기본 사항 소개 | AWS 계정을 생성, 기본 EC2 인스턴스를 시작 | 📅            |
-| Week 21  | AWS 핵심 서비스 – 컴퓨팅, 스토리지 및 네트워킹 |  EC2에 웹 애플리케이션을 배포, S3 버킷을 생성하고 파일을 업로드  | 📅           |
-| Week 22  | AWS IAM 및 보안 | AWS Identity and Access Management(IAM) 및 기본 보안 | 📅            |
-| Week 23  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
-| Week 24  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
-| Week 25  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
-| Week 26  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
-| Week 27  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
-| Week 28  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
+| Week 22  | 클라우드 컴퓨팅 및 AWS 기본 사항 소개 | AWS 계정을 생성, 기본 EC2 인스턴스를 시작 | 📅            |
+| Week 23  | AWS 핵심 서비스 – 컴퓨팅, 스토리지 및 네트워킹 |  EC2에 웹 애플리케이션을 배포, S3 버킷을 생성하고 파일을 업로드  | 📅           |
+| Week 24  | AWS IAM 및 보안 | AWS Identity and Access Management(IAM) 및 기본 보안 | 📅            |
+| Week 25  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
+| Week 26  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
+| Week 27  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
+| Week 28  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
+| Week 29  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
+| Week 30  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
 
 
 ## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )  
