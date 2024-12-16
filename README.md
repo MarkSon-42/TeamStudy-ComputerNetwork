@@ -60,16 +60,14 @@
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/172958486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-박다희</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-박범수</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/angenehms"><img src="https://avatars.githubusercontent.com/u/111214565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-👑원석규</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ehanadul"><img src="https://avatars.githubusercontent.com/u/156569727?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
-이하나</b></sub></a><br /></td>
+👑이하나</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/angenehms"><img src="https://avatars.githubusercontent.com/u/111214565?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+원석규</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/eunah320"><img src="https://avatars.githubusercontent.com/u/66278677?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 정은아</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/daheepk"><img src="https://avatars.githubusercontent.com/u/172958486?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+박다희</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ebeleey"><img src="https://avatars.githubusercontent.com/u/175283788?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 이다이</b></sub></a><br /></td>
   </tr>
@@ -91,10 +89,12 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
  손민우</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/yeongjinjeong"><img src="https://avatars.githubusercontent.com/u/134537573?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
 정영진</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/Beomsususu"><img src="https://avatars.githubusercontent.com/u/175918186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>
+박범수</b></sub></a><br /></td>
   </tr>
 </table>
 
-## 3. ⛳ Curriculum 
+## 3. ⛳ Curriculum (Season-1)
 
 ### Level 1 : 24.07.24 ~ 24.09.12  : 컴퓨터 네트워크 이론 강의, 프로젝트, 기술면접
 
@@ -123,43 +123,39 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 13  |  IP 라우팅 ~ P.216  |   | ✅           |
 | Week 14  | 네트워크 계층 ~ P.250  |  | ✅           |
 | Week 15  | UDP/TCP ~ P.296 |   | ✅           |
-| Week 16  | HTTP ~ P.342 |  | 📅            |
-| Week 17  | SSL & TLS ~  |    | 📅           |
-| Week 18  | 관리 액세스 프로토콜 ~  |   | 📅            |
-| Week 19  | 관리 액세스 프로토콜 ~  |   | 📅            |
-| Week 20  | 관리 액세스 프로토콜 ~  |   | 📅            |
-| Week 21  | 관리 액세스 프로토콜 ~  |   | 📅            |
+| Week 16  | HTTP ~ P.342 |  | ✅            |
+| Week 17  | SSL & TLS ~  |    | ✅           |
+| Week 18  | 관리 액세스 프로토콜.1 ~  |   | ✅            |
+| Week 19  | 관리 액세스 프로토콜.2 ~  |   | ✅            |
+| Week 20  | 관리 액세스 프로토콜.3 ~  |   | ✅            |
+| Week 21  | 관리 액세스 프로토콜.4 ~  |   | ✅            |
 
-### Level 3 : 24.12.01 ~ 25.02.13  :  클라우드 네이티브 컴퓨팅(Amazon Web Service Skillbuilder or MS Azure or GCP..)
+
+---
+
+## 3. ⛳ Curriculum (Season-2)
+
+
+
+### Schedule : 24.01.07 ~ 25.03.11  : 네이버 클라우드로 배우는 클라우드 컴퓨팅
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
-| Week 22  | 클라우드 컴퓨팅 및 AWS 기본 사항 소개 | AWS 계정을 생성, 기본 EC2 인스턴스를 시작 | 📅            |
-| Week 23  | AWS 핵심 서비스 – 컴퓨팅, 스토리지 및 네트워킹 |  EC2에 웹 애플리케이션을 배포, S3 버킷을 생성하고 파일을 업로드  | 📅           |
-| Week 24  | AWS IAM 및 보안 | AWS Identity and Access Management(IAM) 및 기본 보안 | 📅            |
-| Week 25  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
-| Week 26  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
-| Week 27  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
-| Week 28  | AWS 데이터베이스 및 모니터링  | RDS 인스턴스를 구성,  DynamoDB 테이블을 생성하고 CRUD 작업을 수행  | 📅           |
-| Week 29  | 배포 전략 – Elastic Beanstalk 및 ECS | 간단한 Docker 컨테이너를 설정하고 ECS를 사용하여 배포   | 📅           |
-| Week 30  | AWS CodePipeline 및 CodeBuild를 사용한 CI/CD | 무선 이동 네트워크의 심화 학습과 멀티미디어 네트워크의 이해 | 📅           |
+| Week 1  | (TBD) | 📅            |
+| Week 2  | - | 📅           |
+| Week 3  | - | 📅            |
+| Week 4  | - | 📅            |
+| Week 5  | - | 📅            |
+| Week 6  | - | 📅            |
+| Week 7  | - | 📅            |
+| Week 8  | - | 📅            |
+| Week 9  | - | 📅            |
+| Week 10  | - | 📅            |
 
 
 ## 4. Github Collaboration ( 디렉토리 구조, 커밋 규칙 )  
 
-> ### 디렉토리 구조 (예시일뿐, 자유롭게 하셔도 됩니다.)
-> - **src/**: 소스 코드 디렉토리. 컴퓨터 네트워크 관련 학습 자료와 예제 코드
-> - **docs/**: 문서 디렉토리. 학습 자료와 관련된 문서 및 참고 자료
-
-> 
-> ### 커밋 규칙
-> - **커밋 메시지 형식**: `feat: TCP client.java 구현`
->   - **타입**: `feat` (새로운 기능), `fix` (버그 수정), `docs` (문서 변경), `chore` (기타 변경)
->   - **예시**: `feat: Add TCP connection example`
-> - **커밋 메시지 본문**: 변경 사항에 대한 자세한 설명을 포함해야해요.
->   - **예시**: `TCP연결을 JAVA프로그래밍으로 socket 실습 메서드 req, rec`
-> - **커밋 빈도**: 작은 단위로 자주 커밋하여 학습 사항을 추적합시다.
-> - **브랜치 전략**: 브랜칭하지 않고, main브랜치 내의 각자 디렉토레이서만 작업
+> TBD
 
 
 
