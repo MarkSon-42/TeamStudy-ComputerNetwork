@@ -12,8 +12,9 @@
 
 - [교재 및 강의] 
 
-### 강의 : 컴퓨터 네트워크 _ 널널한 개발자의 유튜브 온라인 강의 [네트워크 기초 이론 재생목록]
-[https://www.youtube.com/watch?v=k1gyh9BlOT8&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy](https://www.youtube.com/watch?v=k1gyh9BlOT8&list=PLXvgR_grOs1BFH-TuqFsfHqbh-gpMbFoy)
+### 강의 : 네이버 클라우드 - 클라우드 코스 교육 (클라우드의 핵심 기술과 지식)
+[https://bizschool.naver.com/online/courses/76?order=POPULAR](https://bizschool.naver.com/online/courses/76?order=POPULAR)
+
 
 ### 교재 [그림으로 배우는 TCP/IP 구조] (2022 세종우수학술도서)
 [https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281306020](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281306020)
@@ -110,9 +111,7 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 | Week 7  | 네트워크 보안1 ~ 네트워크 보안2 |   네트워크 보안 프로토콜과 암호화 기법 개요   |    ✅     | 
 | Week 8  | 미야타 히로시 TCP/IP  | 프로토콜 ~P.35 | ✅         |
 
-### Level 2 : 24.09.25 ~ 24.12.07  :  역순으로 올라가는 OSI 7Layer + TCP/IP 구조
-
-[예정] : WireShark를 통한 TCP장애분석하기
+### Level 2 : 24.09.25 ~ 24.12.07  :  [그림으로 배우는 TCP/IP 구조] 보다 자세하게 읽기
 
 | Week    | Learning Content Title        | Details of Learning Content                        | Completion   |
 |---------|-------------------------------|----------------------------------------------------|--------------|
@@ -190,3 +189,7 @@ aseongjun99"><img src="https://avatars.githubusercontent.com/u/154566676?v=4?s=1
 > 해당 스터디 강의자료 pdf파일을 요약하고 강의자료를 토대로 기술질문을 생성할 수 있습니다. 스스로 답을 생각해보고 모르는 것들은 물어보면서 학습하는 방식으로 공부하면 됩니다.
 
 ![image](https://github.com/user-attachments/assets/b754e988-fee8-4af0-ae84-421ebeeafdb7)
+
+#### appendix 02 (perflexity AI)
+
+> 퍼플렉시티도 매우 매우 강추합니다.
